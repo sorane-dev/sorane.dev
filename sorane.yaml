@@ -1,0 +1,47 @@
+preset: okf-site
+
+site:
+  title: soraneDocs
+  description: 文書をひらく。ひらめきが、広がる。— Powered by ibisOffice
+  base_url: https://sorane.dev
+  lang: ja
+  license: AGPL-3.0-only
+  license_page: license.html
+  copyright_since: 2026
+  copyright_holder: sorane-dev
+  hosting:
+    provider: cloudflare
+    cloudflare:
+      pages_project: sorane
+      zone_name: sorane.dev
+      web_analytics: true
+
+build:
+  content_dir: content
+  out_dir: dist
+  permalink: "{{slug}}.html"
+  static_dir: static
+  diagrams:
+    enabled: false
+  blog:
+    archives: true
+    tags: false
+    featured_mode: off
+    index_archive_limit: 5
+
+docs:
+  index_layout: landing
+  nav:
+    - section: soraneDocs
+    - apps.html
+    - samples.html
+    - section: プロジェクト
+    - about.html
+    - license.html
+    - privacy.html
+
+search:
+  index: .sorane/index.db
+
+fonts:
+  enabled: false

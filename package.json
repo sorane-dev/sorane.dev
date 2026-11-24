@@ -1,0 +1,14 @@
+{
+  "name": "sorane-dev-website",
+  "private": true,
+  "description": "Official website for sorane.dev and soraneDocs, built with sorane-dev/sites.",
+  "scripts": {
+    "validate": "npx @sorane/cli validate --cwd . --json",
+    "build": "npx @sorane/cli build --cwd . --clean --skip-c2pa",
+    "watch": "npx @sorane/cli watch --cwd . --clean",
+    "deploy": "npx wrangler pages deploy dist --project-name sorane --branch main"
+  },
+  "devDependencies": {
+    "@sorane/cli": "latest"
+  }
+}
