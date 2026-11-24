@@ -5,6 +5,7 @@ site:
   description: 文書をひらく。ひらめきが、広がる。— Powered by ibisOffice
   base_url: https://sorane.dev
   lang: ja
+  og_image: /static/icon-512.png
   license: AGPL-3.0-only
   license_page: license.html
   copyright_since: 2026
