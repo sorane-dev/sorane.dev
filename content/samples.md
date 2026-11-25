@@ -11,7 +11,7 @@ profile: sorane-okf/0.1
 
 「髙橋／高橋」や「霞が関／霞ヶ関」、伏字の「●」がある名簿を照合します。和暦や番地をそろえ、結果を緑・黄・赤で確認できます（架空データ）。
 
-- [名寄せデモをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fapi%2Fsamples%2Fbddbceda-c82b-4730-8744-a50e6ccb4600%2Fsample.xlsx)
+- [名寄せデモをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Froster-matching-sample.xlsx)
 
 ## 2. Mermaid 構文デモ集（Markdown）
 

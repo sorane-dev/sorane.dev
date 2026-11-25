@@ -19,7 +19,7 @@ profile: sorane-okf/0.1
 
 ## 実際の文書で、確かめる（サンプル 7 件）
 
-- **名簿の照合（Excel / XLSX）**: 「髙橋／高橋」や伏字を含む名寄せデモ（架空データ） — [名寄せデモをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fapi%2Fsamples%2Fbddbceda-c82b-4730-8744-a50e6ccb4600%2Fsample.xlsx)
+- **名簿の照合（Excel / XLSX）**: 「髙橋／高橋」や伏字を含む名寄せデモ（架空データ） — [名寄せデモをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Froster-matching-sample.xlsx)
 - **Mermaid 構文デモ集（Markdown）**: UML を含む主要 24 図種をまとめた総集編 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fmermaid-showcase.md)
 - **マイナンバー法改正案の新旧対照条文（一太郎 / JTD）**: 縦書き条文と罫線表を含む長文（2023年3月1日版） — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fmynumber-law-2023-comparison.jtd)
 - **まちなかの居心地の良さを測る分析ツール（Excel / XLSX）**: 複数シートの数式と 50 個のグラフを含む記入例 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Furban-comfort-analysis.xlsx)
