@@ -55,5 +55,5 @@ WebAssembly ビルド自身の依存部品目録（SBOM JSON）を表計算形�
 
 結合セル・罫線・背景色のある表と、線形・放射状グラデーションを含む行内・浮動の図を確認できます。いずれも公開用の合成文書です。
 
-- [表をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-table.wpd)
-- [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-graphics.wpd)
+- [表をひらく ↗](https://docs.sorane.dev/editor.html?open=https%3A%2F%2Fraw.githubusercontent.com%2Fsorane-dev%2Fdocs%2F1b2343b8af1b973be3cea59380988055735bc85e%2Fwww%2Fsamples%2Fwordperfect-table.wpd)
+- [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=https%3A%2F%2Fraw.githubusercontent.com%2Fsorane-dev%2Fdocs%2F1b2343b8af1b973be3cea59380988055735bc85e%2Fwww%2Fsamples%2Fwordperfect-graphics.wpd)

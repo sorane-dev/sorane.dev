@@ -25,7 +25,7 @@ profile: sorane-okf/0.1
 - **まちなかの居心地の良さを測る分析ツール（Excel / XLSX）**: 複数シートの数式と 50 個のグラフを含む記入例 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Furban-comfort-analysis.xlsx)
 - **自治体連携標準 CSV（294列）**: 繰り返し列をツリー構造で展開・検索（架空データ） — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fstandard-linkage.csv)
 - **Visio マルチページ図面ハンドブック（VSDX）**: 複数ページのフロー図・構成図を読み取り・編集 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fvisio-multi-page-handbook.vsdx)
-- **WordPerfect 6（WPD）**: 結合セル・罫線付きの表と、グラデーションを含む埋め込み図（合成データ） — [表をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-table.wpd) · [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-graphics.wpd)
+- **WordPerfect 6（WPD）**: 結合セル・罫線付きの表と、グラデーションを含む埋め込み図（合成データ） — [表をひらく ↗](https://docs.sorane.dev/editor.html?open=https%3A%2F%2Fraw.githubusercontent.com%2Fsorane-dev%2Fdocs%2F1b2343b8af1b973be3cea59380988055735bc85e%2Fwww%2Fsamples%2Fwordperfect-table.wpd) · [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=https%3A%2F%2Fraw.githubusercontent.com%2Fsorane-dev%2Fdocs%2F1b2343b8af1b973be3cea59380988055735bc85e%2Fwww%2Fsamples%2Fwordperfect-graphics.wpd)
 - **ibisOffice WASM SBOM（CycloneDX 1.6）**: 本ビルド自身の依存部品目録 JSON を表計算形式で閲覧 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fibis-office-wasm.sbom.cdx.json)
 
 ## Sorane エコシステム
