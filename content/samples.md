@@ -50,3 +50,10 @@ UML を含む主要 24 図種をまとめた Markdown 総集編。ブラウザ�
 WebAssembly ビルド自身の依存部品目録（SBOM JSON）を表計算形式で直接閲覧できます。
 
 - [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fibis-office-wasm.sbom.cdx.json)
+
+## 8. WordPerfect 6（WPD）
+
+結合セル・罫線・背景色のある表と、線形・放射状グラデーションを含む行内・浮動の図を確認できます。いずれも公開用の合成文書です。
+
+- [表をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-table.wpd)
+- [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-graphics.wpd)

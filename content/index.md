@@ -17,7 +17,7 @@ profile: sorane-okf/0.1
 - **端末内完結のローカル処理**: 文書の読み込み・編集・PDF 書き出しはすべてお使いの端末内で完結します。Web 版もアカウント登録なしで利用できます。
 - **日本語組版と透明なサプライチェーン**: 縦書き・罫線表・異体字対応フォントを備え、配布ビルドごとの CycloneDX 1.6 SBOM / CBOM もアプリ自身で閲覧できます。
 
-## 実際の文書で、確かめる（サンプル 7 件）
+## 実際の文書で、確かめる（サンプル 8 件）
 
 - **名簿の照合（Excel / XLSX）**: 「髙橋／高橋」や伏字を含む名寄せデモ（架空データ） — [名寄せデモをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Froster-matching-sample.xlsx)
 - **Mermaid 構文デモ集（Markdown）**: UML を含む主要 24 図種をまとめた総集編 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fmermaid-showcase.md)
@@ -25,6 +25,7 @@ profile: sorane-okf/0.1
 - **まちなかの居心地の良さを測る分析ツール（Excel / XLSX）**: 複数シートの数式と 50 個のグラフを含む記入例 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Furban-comfort-analysis.xlsx)
 - **自治体連携標準 CSV（294列）**: 繰り返し列をツリー構造で展開・検索（架空データ） — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fstandard-linkage.csv)
 - **Visio マルチページ図面ハンドブック（VSDX）**: 複数ページのフロー図・構成図を読み取り・編集 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fvisio-multi-page-handbook.vsdx)
+- **WordPerfect 6（WPD）**: 結合セル・罫線付きの表と、グラデーションを含む埋め込み図（合成データ） — [表をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-table.wpd) · [埋め込み図をひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fwordperfect-graphics.wpd)
 - **ibisOffice WASM SBOM（CycloneDX 1.6）**: 本ビルド自身の依存部品目録 JSON を表計算形式で閲覧 — [サンプルをひらく ↗](https://docs.sorane.dev/editor.html?open=%2Fsamples%2Fibis-office-wasm.sbom.cdx.json)
 
 ## Sorane エコシステム
